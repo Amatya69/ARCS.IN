@@ -9,9 +9,9 @@ module.exports = {
   showTime: false, // Toggle to show or hide time in status (true/false)
   token: "" || process.env.TOKEN,
   timeZone: "Asia/Kolkata", //Your Timezone, eg Asia/Kolkata
-  Name: "Name Here!",
-  State: "State Here!",
-  Details: "Details Here!",
+  Name: "Moderation",
+  State: "Discord moderation",
+  Details: "Bot setups",
   FirstButtonName: "Subscribe",
   FirstButtonUrl: "https://m.youtube.com/@Supreme-guide",
   SecondButtonName: "Join",
