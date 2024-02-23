@@ -10,8 +10,8 @@ module.exports = {
   token: "" || process.env.TOKEN,
   timeZone: "Asia/Kolkata", //Your Timezone, eg Asia/Kolkata
   Name: "Moderation",
-  State: "Discord moderation",
-  Details: "Bot setups",
+  State: "Bot Setups",
+  Details: "Moderation",
   FirstButtonName: "Subscribe",
   FirstButtonUrl: "https://m.youtube.com/@Supreme-guide",
   SecondButtonName: "Join",
