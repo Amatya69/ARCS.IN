@@ -66,7 +66,7 @@ setInterval(() => {
   const Spicy = newTime;
 
   const r = new Discord.RichPresence()
-    .setApplicationId("1155449771562127453")
+    .setApplicationId("1134677019297321062")
     .setType("STREAMING")
     .setURL("https://www.youtube.com/watch?v=dQw4w9WgXcQ")
     .setState(config.State)
